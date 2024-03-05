@@ -2,12 +2,12 @@ Hi 👋 My name is Marta Díaz
 ===========================
 Junior FullStack Developer
 --------------------------
-After some years working as surf and swimming instructor, I has decided to change my life and dedicate myself to web development. I had discover in development a great world which i love. I'm good in team works and i learn quickly.
+After some years working as surf and swimming instructor, I have decided to change my life and dedicate myself to web development. I have discovered a great world in development  which I truly love. I'm pretty good in team work and I learn quickly.
 
 * 🌍  I'm based in Asturias, Spain
 * ✉️  You can contact me at [martalarena2002@gmail.com](mailto:martalarena2002@gmail.com)
 * 🧠  I'm learning in Factoria F5 - Fullstack Web Development Bootcamp (850h)
-* 🤝  I'm open to collaborating on Amazing projects that make me learn
+* 🤝  I'm open to collaborate with amazing projects which make me learn
 
 ### Skills
 
