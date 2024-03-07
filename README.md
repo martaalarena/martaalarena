@@ -1,6 +1,3 @@
-![github-header-image(4)](https://github.com/martaalarena/martaalarena/assets/151625681/f0f1c886-1124-4bc2-943f-6221c419cb37)
-
-
 Junior FullStack Developer
 --------------------------
 After some years working as surf and swimming instructor, I have decided to change my life and dedicate myself to web development. I have discovered a great world in development  which I truly love. I'm pretty good in team work and I learn quickly.
